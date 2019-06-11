@@ -8,9 +8,9 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ## CloudFrount endpoint URL
 
-```
+
 http://d27zm5l3yktt37.cloudfront.net/index.html
-```
+
 
 ## Prerequisites
 
@@ -22,18 +22,30 @@ http://d27zm5l3yktt37.cloudfront.net/index.html
 * S3 bucket creation
 ![](images/bucket.png)
 
+
 * S3 bucket file upload
 ![](images/bucket_files.png)
+
 
 * S3 bucket setup for static website hosting
 ![](images/setup.png)
 
+
 * S3 bucket configuration
 ![](images/IAMpolicies.png)
+
 
 * Website distribution via CloudFront
 ![](images/cloudfront.png)
 
+
 * Access website via web browser (Checkout the URL in screentshot).
 ![](images/deployed.png)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Issues
+Contact me on [Twitter](https://twitter.com/harshsahu97).
 
