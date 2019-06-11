@@ -9,7 +9,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 ## CloudFrount endpoint URL
 
 ```
-http://d27zm5l3yktt37.cloudfront.net/index.html
+(http://d27zm5l3yktt37.cloudfront.net/index.html)
 ```
 
 ## Prerequisites
