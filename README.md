@@ -31,7 +31,7 @@ http://d27zm5l3yktt37.cloudfront.net/index.html
 ![](images/setup.png)
 
 
-* S3 bucket configuration
+* S3 bucket security configuration via IAM policies
 ![](images/IAMpolicies.png)
 
 
