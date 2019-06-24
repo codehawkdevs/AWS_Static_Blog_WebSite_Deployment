@@ -6,7 +6,7 @@ This project is a part of [Udacity's Cloud Developer Nanodegree program](https:/
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. In this project, I've deployed a static website to AWS. I created a S3 bucket, configure the bucket for website hosting, and secure it using IAM policies. I uploaded the website files to your bucket and speed up content delivery using AWS’s content distribution network service, CloudFront. Lastly, I was able to access my website in a browser using the unique S3 endpoint.
 
-## CloudFrount endpoint URL (Live Demo)
+## CloudFront endpoint URL (Live Demo)
 
 
 http://d27zm5l3yktt37.cloudfront.net/index.html
