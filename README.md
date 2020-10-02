@@ -14,8 +14,8 @@ http://d27zm5l3yktt37.cloudfront.net/index.html
 
 ## Prerequisites
 
-* AWS Account
-* Website code
+* *AWS Account*
+* *Website code*
 
 ## Topics Covered
 
