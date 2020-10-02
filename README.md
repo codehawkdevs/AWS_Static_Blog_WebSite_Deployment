@@ -46,6 +46,6 @@ http://d27zm5l3yktt37.cloudfront.net/index.html
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Issues
+## Issues ?
 Contact me on [Twitter](https://twitter.com/harshsahu97).
 
