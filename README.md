@@ -1,6 +1,6 @@
 # AWS Static WebSite Deployment
 
-This project is a part of [Udacity's Cloud Developer Nanodegree program](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990).
+This project is a part of [Cloud Developer Nanodegree program](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990) by Udacity.
 
 ## Project Overview
 
